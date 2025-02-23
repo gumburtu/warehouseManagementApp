@@ -67,5 +67,6 @@ public class Urun {
                 "| Miktar: " + miktar +
                 "| Birim: " + birim +
                 "| Raf: " + raf;
-    }//merhaba
+    }//merhaba asdkljafj
+    //seval
 }
