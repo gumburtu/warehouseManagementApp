@@ -69,4 +69,4 @@ public class Depo {
             System.out.println("Hata: Ürün bulunamadı!");
         }
     }
-}
+}//seval
