@@ -68,5 +68,5 @@ public class Depo {
         } else {
             System.out.println("Hata: Ürün bulunamadı!");
         }
-    }
+    }//selam
 }
