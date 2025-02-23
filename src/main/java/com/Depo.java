@@ -70,4 +70,4 @@ public class Depo {
         }
     }
 }//seval
-
+//aslan
