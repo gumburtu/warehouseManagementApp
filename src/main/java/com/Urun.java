@@ -68,5 +68,5 @@ public class Urun {
                 "| Birim: " + birim +
                 "| Raf: " + raf;
     }//merhaba asdkljafj
-    //seval
+    //sevalsdfsgdfgd
 }
