@@ -68,6 +68,6 @@ public class DepoApp {
                     depo.urunStatusuDegistir(idStat, status);
                     break;
             }
-        } while (secim != 0);
+        } while (secim != 0); //merhaba
     }
 }
